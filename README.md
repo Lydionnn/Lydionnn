@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernando Amaya AKA @Lydionnn
 - 👀 I’m interested in Data science and also on implementation of automated systems in Trading Stocks. 
 - 🌱 I’m currently learning Python and SQL while doing a masters in Computer Science at Campbellsville University. 
-- 📫 How to reach me @SceptreLydion on twitter or via email at ferx.amaya@hotmail.com
+- 📫 How to reach me @SceptreLydion on twitter or via email at fernandoamayamartell@gmail.com
 
 I started my coding journey on 2022 with a strong interest of implementation of automated systems in trading in the stock market. 
 Since I started learning about this I noticed how possibilities were endless. 

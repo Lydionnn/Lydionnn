@@ -1,3 +1,4 @@
+## About me
 - 👋 Hi, I’m Fernando Amaya AKA @Lydionnn
 - 👀 I’m interested in Data science and also on implementation of automated systems in Trading Stocks. 
 - 🌱 I’m currently learning Python and SQL while doing a masters in Computer Science at Campbellsville University. 
@@ -7,8 +8,8 @@ I started my coding journey on 2022 with a strong interest of implementation of 
 Since I started learning about this I noticed how possibilities were endless. 
 I am looking forward to start my own projects and get 1% better every day. 
 
-Data Analyst | Data Scientist | Business Intelligence Specialist | Business Analyst | BI Consultant | Process Consultant | Master in Computer Science | Undergrad Business Administratrion
---------------------------------------------------------------------------------------------------------------------------------
+## Data Professional
+
 As a (Big) Data Professional, I am deeply passionate about harnessing the power of data to solve complex problems and drive strategic decisions. With a foundation in freelance projects and independent study, I have developed practical skills in data analysis, visualization, and modeling. My hands-on experience includes creating detailed dashboards, generating insightful reports, and building data-driven models that reflect real-world business applications.
 
 Key Projects & Skills:

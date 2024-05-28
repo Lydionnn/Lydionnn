@@ -8,7 +8,7 @@ I started my coding journey on 2021 with a strong interest of implementation of 
 Since I started learning about this I noticed how possibilities were endless. 
 I am looking forward to get better 1% every day. 
 
-### Projects
+### 🌟 Featured Projects 📊
 Ascent 5 Client Project - Sales and Business Analysis: https://github.com/Lydionnn/Ascent5-Full-Sales-Analysis-Python
 
 Speedline Wheels Client Project - Sales Analysis: https://github.com/Lydionnn/Speedline-Wheels-Sales-Analaysis-Python-Tableau

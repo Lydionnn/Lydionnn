@@ -8,6 +8,8 @@ I started my coding journey on 2021 with a strong interest of implementation of 
 Since I started learning about this I noticed how possibilities were endless. 
 I am looking forward to get better 1% every day. 
 
+### Tableau Projects: https://public.tableau.com/app/profile/fernando.amaya7973/vizzes
+
 ## Data Professional 💻📈🔍
 
 As a (Big) Data Professional, I am deeply passionate about harnessing the power of data to solve complex problems and drive strategic decisions. With a foundation in freelance projects and independent study, I have developed practical skills in data analysis, visualization, and modeling. My hands-on experience includes creating detailed dashboards, generating insightful reports, and building data-driven models that reflect real-world business applications.

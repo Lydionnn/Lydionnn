@@ -1,12 +1,12 @@
 ## About me 🙋🏻‍♂️🌐
 - 👋 Hi, I’m Fernando Amaya AKA @Lydionnn
-- 👀 I’m interested in Data science and also on implementation of automated systems in Trading Stocks. 
-- 🌱 I’m currently learning Python, SQL and Data Visualization tools like Tableau and Power BI while doing a Masters in Computer Science at Campbellsville University. 
+- 👀 Professional in Data science and interested on implementation of automated systems in Trading Stocks. 
+- 🌱 Proficient Python, SQL and Data Visualization tools like Tableau and Power BI and getting my Masters in Computer Science at Campbellsville University. 
 - 📫 How to reach me @SceptreLydion on twitter or via email at fernandoamayamartell@gmail.com
 
-I started my coding journey on 2022 with a strong interest of implementation of automated systems in trading in the stock market. 
+I started my coding journey on 2021 with a strong interest of implementation of automated systems in trading in the stock market. 
 Since I started learning about this I noticed how possibilities were endless. 
-I am looking forward to start my own projects and get 1% better every day. 
+I am looking forward to get better 1% every day. 
 
 ## Data Professional 💻📈🔍
 

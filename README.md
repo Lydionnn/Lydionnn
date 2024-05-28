@@ -10,6 +10,7 @@ I am looking forward to get better 1% every day.
 
 ## Projects
 Ascent 5 Client Project - Sales and Business Analysis: https://github.com/Lydionnn/Ascent5-Full-Sales-Analysis-Python
+
 Speedline Wheels Client Project - Sales Analysis: https://github.com/Lydionnn/Speedline-Wheels-Sales-Analaysis-Python-Tableau
 ### Tableau Projects: https://public.tableau.com/app/profile/fernando.amaya7973/vizzes
 
